@@ -22,7 +22,7 @@ class printoutbangun extends printout{
         System.out.println("Persegi memiliki 4 sisi.");
     }
     public void lingkaran(){
-        System.out.println("Lingkaran memiliki 1 sisi");
+        System.out.println("Lingkaran memiliki 1 sisi.");
     }
     public void persegipanjang(){
         System.out.println("Persegi panjang memiliki 4 sisi.");
